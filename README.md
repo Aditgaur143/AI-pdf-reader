@@ -17,11 +17,6 @@ Use a question-answering chain for answering user questions.
 Display answers in the Streamlit app interface.
 
 
-Installation : 
-Clone the repository: 
-git clone https://github.com/CodeThat/Langchain-Chat-PDF.git
-
-
 
 Change to the project directory :
 cd your-repository
