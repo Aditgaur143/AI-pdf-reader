@@ -45,8 +45,7 @@ Enter your question about the PDF content in the provided text input.
 View the answer displayed in the app interface.
 
 
-License : 
-This project is licensed under the MIT License.
+
 
 
 
